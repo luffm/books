@@ -1,5 +1,14 @@
 ## Read
 
+### Douglas Adams
+
+* The Hitchhiker's Guide to the Galaxy
+* The Restaurant at the End of the Universe
+* Life, the Universe and Everything
+* So Long, and Thanks For All the Fish
+* Dirk Gently's Holistic Detective Agency
+* The Long Dark Tea-Time of the Soul
+
 ### Isaac Asimov
 
 * Pebble in the Sky
@@ -30,6 +39,14 @@
 * Rushing to Paradise, J.G.Ballard
 * Empire of the Sun, J.G.Ballard
 
+### Iain M. Banks
+
+* Feersum Endjinn
+
+### J. M. Barrie
+
+* The Little White Bird
+
 ### Arthur C. Clarke
 
 * 2001: A Space Odyssey
@@ -57,20 +74,19 @@
 
 ### David Eddings
 
-* Pawn of Prophecy
-* Queen of Sorcery
-* Magician's Gambit
-* Castle of Wizardry
-* Enchanters' End Game
-* The Malloreon series
-* Guardians of the West
-* King of the Murgos
-* Demon Lord of Karanda
-* Sorceress of Darshiva
-* The Seeress of Kell
-* The Diamond Throne
-* The Ruby Knight
-* The Sapphire Rose
+* Pawn of Prophecy (The Belgariad)
+* Queen of Sorcery (The Belgariad)
+* Magician's Gambit (The Belgariad)
+* Castle of Wizardry (The Belgariad)
+* Enchanters' End Game (The Belgariad)
+* Guardians of the West (The Malloreon)
+* King of the Murgos (The Malloreon)
+* Demon Lord of Karanda (The Malloreon)
+* Sorceress of Darshiva (The Malloreon)
+* The Seeress of Kell (The Malloreon)
+* The Diamond Throne (The Elenium)
+* The Ruby Knight (The Elenium)
+* The Sapphire Rose (The Elenium)
 
 ### Shusaku Endo
 
@@ -106,7 +122,11 @@
 
 ### Geoffrey Household
 
-Rogue Male
+* Rogue Male
+
+### Tove Jansson
+
+* The Summer Book
 
 ### Hiromi Kawakami
 
@@ -125,6 +145,10 @@ Rogue Male
 * Out
 * Grotesque
 * Real World
+
+### John Masefield
+
+* The Box of Delights
 
 ### Kanae Minato
 
@@ -150,6 +174,13 @@ Rogue Male
 * Audition
 * Piercing
 * Coin Locker Babies
+
+### Terry Pratchett
+
+* The Colour of Magic
+* The Light Fantastic
+* Guards! Guards!
+* Hogfather
 
 ### Philip Pullman
 
@@ -205,6 +236,11 @@ Rogue Male
 
 * Villain
 
+### Timothy Zahn
+
+* Heir to the Empire (The Thrawn Trilogy)
+* Dark Force Rising (The Thrawn Trilogy)
+* The Last Command (The Thrawn Trilogy)
 
 
 
