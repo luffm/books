@@ -109,6 +109,10 @@
 * A Gun For Sale
 * Brighton Rock
 
+### H. Rider Haggard
+
+* King Solomon's Mines
+
 ### James Herbert
 
 * The Magic Cottage
@@ -151,6 +155,10 @@
 * Grotesque
 * Real World
 
+#### Gabriel García Márquez
+
+* The Story of a Shipwrecked Sailor
+
 ### George R.R. Martin
 
 * A Game of Thrones
@@ -158,6 +166,15 @@
 ### John Masefield
 
 * The Box of Delights
+
+### Will Mcintosh
+
+* Love Minus Eighty
+* Defenders
+
+### Mian Mian
+
+* Candy
 
 ### Kanae Minato
 
@@ -183,6 +200,10 @@
 * Audition
 * Piercing
 * Coin Locker Babies
+
+### Larry Niven
+
+* Ringworld
 
 ### George Orwell
 
@@ -216,6 +237,7 @@
 * Revelation Space
 * Redemption Ark
 * Absolution Gap
+* The Prefect
 * Chasm City
 * Century Rain
 * House of Suns
@@ -223,6 +245,15 @@
 * Revenger
 * Diamond Dogs, Turquoise Days
 * Slow Bullets
+
+### John Steinbeck
+
+* Of Mice and Men
+
+### Patrick Süskind
+
+* The Pigeon
+* The Story of Mr Sommer
 
 ### Kōji Suzuki
 
