@@ -9,6 +9,11 @@
 * Dirk Gently's Holistic Detective Agency
 * The Long Dark Tea-Time of the Soul
 
+### Brian Aldiss
+
+* Hothouse
+* Non-Stop
+
 ### Isaac Asimov
 
 * Pebble in the Sky
@@ -146,6 +151,10 @@
 * Grotesque
 * Real World
 
+### George R.R. Martin
+
+* A Game of Thrones
+
 ### John Masefield
 
 * The Box of Delights
@@ -174,6 +183,10 @@
 * Audition
 * Piercing
 * Coin Locker Babies
+
+### George Orwell
+
+* Animal Farm
 
 ### Terry Pratchett
 
@@ -231,6 +244,10 @@
 * The Silmarillion
 * Mr Bliss
 * Roverandom
+
+### H.G. Wells
+
+* The Time Machine
 
 ### Shūichi Yoshida
 
