@@ -1,5 +1,9 @@
 ## Read
 
+### Kobo Abe
+
+* The Ark Sakura
+
 ### Douglas Adams
 
 * The Hitchhiker's Guide to the Galaxy
@@ -124,6 +128,10 @@
 * Malice
 * Journey Under the Midnight Sun
 
+### Takashi Hiraide
+
+* The Guest Cat
+
 ### Tetsuya Honda
 
 * The Silent Dead
@@ -136,6 +144,7 @@
 ### Tove Jansson
 
 * The Summer Book
+* The Moomins and the Great Flood
 
 ### Hiromi Kawakami
 
@@ -166,6 +175,10 @@
 ### John Masefield
 
 * The Box of Delights
+
+### Ian McEwan
+
+* Enduring Love
 
 ### Will Mcintosh
 
@@ -268,6 +281,10 @@
 
 * The Tattoo Murder Case
 
+### Yoshikazu Takeuchi
+
+* The Ark Sakura
+
 ### J.R.R. Tolkien
 
 * The Hobbit
@@ -280,9 +297,26 @@
 
 * The Time Machine
 
+### Taichi Yamada
+
+* Strangers
+
+### Hideo Yokoyama
+
+* Six Four
+* Seventeen
+
 ### Shūichi Yoshida
 
 * Villain
+* Parade
+
+### Banana Yoshimoto
+
+* Kitchen
+* Amrita
+* Goodbye Tsugumi
+* The Lake
 
 ### Timothy Zahn
 
@@ -297,6 +331,14 @@
 
 ## Unread
 
+### Anthology
+
+* The Book of Tokyo - A City in Short Fiction
+
+### Keiko Aikawa
+
+* The Road to Enlightenment
+
 ### J.G. Ballard
 
 * The Complete Stories of J.G.Ballard
@@ -309,6 +351,10 @@
 * When I Whistle
 * Kiku's Prayer
 * Foreign Studies
+
+### E.M. Forster
+
+* A Passage to India
 
 ### Paul Glynn
 
@@ -325,6 +371,7 @@
 ### Seichō Matsumoto
 
 * Inspector Imanishi Investigates
+* A Quiet Place
 
 ### Miyuki Miyabe
 
@@ -335,6 +382,19 @@
 
 * Tokyo Decadence
 
+### Sayaka Murata
+
+* Convenience Store Woman
+
+### Vladimir Nabokov
+
+* Pale Fire
+
+### Asa Nonami
+
+* The Hunter
+* Now You're One of Us
+
 ### Hisashi Nozawa
 
 * Deep Red
@@ -343,7 +403,24 @@
 
 * Nan-Core
 
+### Arimasa Osawa
+
+* Shinjuku Shark
+
 ### Koji Suzuki
 
 * S: Es
 
+### Akimitsu Takagi
+
+* The Informer
+* Honeymoon to Nowhere
+
+### Taichi Yamada
+
+* In Search of a Distant Voice
+* I Haven't Dreamed of Flying Yet
+
+### Banana Yoshimoto
+
+* N.P.
