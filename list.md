@@ -41,12 +41,12 @@
 ### J.G. Ballard
 
 * The Wind From Nowhere
-* The Drowned World, J.G.Ballard
-* The Drought, J.G.Ballard
-* The Crystal World, J.G.Ballard
-* Concrete Island, J.G.Ballard
-* Rushing to Paradise, J.G.Ballard
-* Empire of the Sun, J.G.Ballard
+* The Drowned World
+* The Drought
+* The Crystal World
+* Concrete Island
+* Rushing to Paradise
+* Empire of the Sun
 
 ### Iain M. Banks
 
@@ -80,6 +80,10 @@
 * The Three Stigmata of Palmer Eldritch
 * Flow My Tears, the Policeman Said
 * The Minority Report
+
+### Gerald Durrell
+
+* My Family and Other Animals
 
 ### David Eddings
 
@@ -146,6 +150,10 @@
 * The Summer Book
 * The Moomins and the Great Flood
 
+### K.W. Jeter
+
+* Blade Runner 2: The Edge of Human
+
 ### Hiromi Kawakami
 
 * Strange Weather in Tokyo (The Briefcase)
@@ -156,6 +164,7 @@
 
 ### Stephen King
 
+* Misery
 * The Eye of the Dragon
 
 ### Natsuo Kirino
@@ -163,6 +172,10 @@
 * Out
 * Grotesque
 * Real World
+
+### Stanislaw Lem
+
+* Solaris
 
 #### Gabriel García Márquez
 
@@ -214,6 +227,10 @@
 * Piercing
 * Coin Locker Babies
 
+### Grant Naylor
+
+* Red Dwarf: Infinity Welcomes Careful Drivers
+
 ### Larry Niven
 
 * Ringworld
@@ -263,6 +280,10 @@
 
 * Of Mice and Men
 
+### Arkady and Boris Strugatsky
+
+* Roadside Picnic
+
 ### Patrick Süskind
 
 * The Pigeon
@@ -292,6 +313,11 @@
 * The Silmarillion
 * Mr Bliss
 * Roverandom
+
+### S. A. Wakefield
+
+* Bottersnikes and Gumbles
+* Gumbles on Guard
 
 ### H.G. Wells
 
@@ -420,6 +446,10 @@
 
 * In Search of a Distant Voice
 * I Haven't Dreamed of Flying Yet
+
+### Motohisa Yamakage
+
+* The Essence of Shinto
 
 ### Banana Yoshimoto
 
