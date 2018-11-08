@@ -13,6 +13,10 @@
 * Dirk Gently's Holistic Detective Agency
 * The Long Dark Tea-Time of the Soul
 
+### Bernhard Aichner
+
+* Woman of the Dead
+
 ### Brian Aldiss
 
 * Hothouse
@@ -55,6 +59,10 @@
 ### J. M. Barrie
 
 * The Little White Bird
+
+### Elizabeth Boyer
+
+* The Elves and the Otterskin
 
 ### Arthur C. Clarke
 
@@ -108,6 +116,10 @@
 * Scandal
 * Wonderful Fool
 
+### Gillian Flynn
+
+* Gone Girl
+
 ### William Golding
 
 * Lord of the Flies
@@ -120,6 +132,10 @@
 ### H. Rider Haggard
 
 * King Solomon's Mines
+
+### Paula Hawkins
+
+* The Girl on the Train
 
 ### James Herbert
 
@@ -297,6 +313,10 @@
 * Birthday
 * Dark Water
 * Promenade of the Gods
+
+### Jonathan Swift
+
+* Gulliver's Travels
 
 ### Akimitsu Takagi
 
