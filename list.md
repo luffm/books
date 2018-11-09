@@ -55,6 +55,7 @@
 ### Iain M. Banks
 
 * Feersum Endjinn
+* Excession
 
 ### J. M. Barrie
 
@@ -299,6 +300,7 @@
 ### John Steinbeck
 
 * Of Mice and Men
+* The Pearl
 
 ### Arkady and Boris Strugatsky
 
@@ -355,6 +357,10 @@
 ### H.G. Wells
 
 * The Time Machine
+
+### John Wyndham
+
+* The Day of the Triffids 
 
 ### Taichi Yamada
 
