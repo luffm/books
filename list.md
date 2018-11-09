@@ -129,6 +129,10 @@
 * A Gun For Sale
 * Brighton Rock
 
+### Mark Haddon
+
+* The Curious Incident of the Dog in the Night-Time
+
 ### H. Rider Haggard
 
 * King Solomon's Mines
@@ -318,6 +322,10 @@
 
 * Gulliver's Travels
 
+### Matthew Syed
+
+* Black Box Thinking
+
 ### Akimitsu Takagi
 
 * The Tattoo Murder Case
@@ -333,6 +341,11 @@
 * The Silmarillion
 * Mr Bliss
 * Roverandom
+
+### Sue Townsend
+
+* The Secret Diary of Adrian Mole, Aged 13¾
+* The Growing Pains of Adrian Mole
 
 ### S. A. Wakefield
 
