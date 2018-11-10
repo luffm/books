@@ -41,6 +41,9 @@
 * Nemesis
 * Nightfall
 * Earth is Room Enough
+* Robot Dreams
+* The Early Asimov Volume 1
+* The Early Asimov Volume 3
 
 ### J.G. Ballard
 
@@ -166,6 +169,11 @@
 
 * Rogue Male
 
+### Pico Iyer
+
+* The Lady and the Monk
+* The Global Soul
+
 ### Tove Jansson
 
 * The Summer Book
@@ -182,6 +190,10 @@
 ### Guy Gavriel Kay
 
 * The Darkest Road
+
+### Alex Kerr
+
+* Lost Japan
 
 ### Stephen King
 
