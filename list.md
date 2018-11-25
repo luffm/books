@@ -155,6 +155,7 @@
 * Salvation of a Saint
 * Malice
 * Journey Under the Midnight Sun
+* Naoko
 
 ### Takashi Hiraide
 
@@ -483,6 +484,10 @@
 ### Arimasa Osawa
 
 * Shinjuku Shark
+
+### Terry Pratchett
+
+* Feet of Clay
 
 ### Koji Suzuki
 
