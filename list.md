@@ -429,10 +429,16 @@
 * When I Whistle
 * Kiku's Prayer
 * Foreign Studies
+* Song of Sadness
+* The Sea and Poison
 
 ### E.M. Forster
 
 * A Passage to India
+
+### Tei Fujiwara
+
+* Tei
 
 ### Paul Glynn
 
@@ -455,6 +461,10 @@
 
 * Crossfire
 * Shadow Family
+
+### Haruki Murakami
+
+* Birthday Girl
 
 ### Ryū Murakami
 
