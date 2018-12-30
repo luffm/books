@@ -279,6 +279,7 @@
 * The Light Fantastic
 * Guards! Guards!
 * Hogfather
+* Feet of Clay
 
 ### Philip Pullman
 
@@ -500,10 +501,6 @@
 ### Arimasa Osawa
 
 * Shinjuku Shark
-
-### Terry Pratchett
-
-* Feet of Clay
 
 ### Koji Suzuki
 
