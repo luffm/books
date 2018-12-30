@@ -412,6 +412,7 @@
 ### Anthology
 
 * The Book of Tokyo - A City in Short Fiction
+* Heaven's Wind
 
 ### Keiko Aikawa
 
@@ -422,6 +423,11 @@
 * The Complete Stories of J.G.Ballard
 * The Day of Creation
 
+### Kaori Ekuni
+
+* Twinkle Twinkle
+* God's Boat
+
 ### Shusaku Endo
 
 * Silence
@@ -429,8 +435,8 @@
 * When I Whistle
 * Kiku's Prayer
 * Foreign Studies
-* Song of Sadness
 * The Sea and Poison
+* Song of Sadness
 
 ### E.M. Forster
 
