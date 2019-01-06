@@ -1,5 +1,9 @@
 ## Read
 
+### Anthology
+
+* The Book of Tokyo - A City in Short Fiction
+
 ### Kobo Abe
 
 * The Ark Sakura
@@ -123,6 +127,11 @@
 ### Gillian Flynn
 
 * Gone Girl
+
+### Alex Garland
+
+* The Beach
+* The Tesseract
 
 ### William Golding
 
@@ -410,9 +419,10 @@
 
 ## Unread
 
-### Anthology
+### Anthologies
 
-* The Book of Tokyo - A City in Short Fiction
+* Read Real Japanese Fiction: Short Stories By Contemporary Writers
+* Short Stories in Japanese: New Penguin Parallel Text
 * Heaven's Wind
 
 ### Keiko Aikawa
@@ -458,6 +468,14 @@
 ### Kotaro Isaka
 
 * Remote Control
+
+### M.R. James
+
+* Collected Ghost Stories
+
+### Mitsuyo Kakuta
+
+* The Eighth Day
 
 ### Seichō Matsumoto
 
