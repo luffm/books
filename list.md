@@ -475,6 +475,7 @@
 
 ### Mitsuyo Kakuta
 
+* Woman on the Other Shore
 * The Eighth Day
 
 ### Seichō Matsumoto
@@ -516,9 +517,17 @@
 
 * Nan-Core
 
+### Yoko Ogawa
+
+* Revenge
+
 ### Arimasa Osawa
 
 * Shinjuku Shark
+
+### Tricia Sullivan
+
+* Sweet Dreams
 
 ### Koji Suzuki
 
@@ -540,4 +549,5 @@
 
 ### Banana Yoshimoto
 
+* Asleep
 * N.P.
