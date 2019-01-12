@@ -4,7 +4,7 @@
 
 * The Book of Tokyo - A City in Short Fiction
 
-### Kobo Abe
+### Kōbō Abe
 
 * The Ark Sakura
 
@@ -517,7 +517,7 @@
 
 * Nan-Core
 
-### Yoko Ogawa
+### Yōko Ogawa
 
 * Revenge
 
