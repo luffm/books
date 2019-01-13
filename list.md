@@ -357,7 +357,7 @@
 
 ### Yoshikazu Takeuchi
 
-* The Ark Sakura
+* Perfect Blue: Complete Metamorphosis
 
 ### J.R.R. Tolkien
 
