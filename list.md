@@ -538,6 +538,10 @@
 * The Informer
 * Honeymoon to Nowhere
 
+### Yūko Tsushima
+
+* Child of Fortune
+
 ### Taichi Yamada
 
 * In Search of a Distant Voice
