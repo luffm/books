@@ -329,6 +329,10 @@
 
 * Roadside Picnic
 
+### Tricia Sullivan
+
+* Sweet Dreams
+
 ### Patrick Süskind
 
 * The Pigeon
@@ -524,10 +528,6 @@
 ### Arimasa Osawa
 
 * Shinjuku Shark
-
-### Tricia Sullivan
-
-* Sweet Dreams
 
 ### Koji Suzuki
 
