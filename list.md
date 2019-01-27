@@ -263,12 +263,17 @@
 * The Wind-Up Bird Chronicle
 * Sputnik Sweetheart
 * Underground
+* Birthday Girl
 
 ### Ryū Murakami
 
 * Audition
 * Piercing
 * Coin Locker Babies
+
+### Sayaka Murata
+
+* Convenience Store Woman
 
 ### Grant Naylor
 
@@ -433,6 +438,10 @@
 
 * The Road to Enlightenment
 
+### Svetlana Alexievich
+
+* Chernobyl Prayer: A Chronicle of the Future (Penguin Modern Classics)
+
 ### J.G. Ballard
 
 * The Complete Stories of J.G.Ballard
@@ -465,6 +474,10 @@
 
 * A Song For Nagasaki
 
+### John Hersey
+
+* Hiroshima
+
 ### Masuji Ibuse
 
 * Black Rain
@@ -477,10 +490,18 @@
 
 * Collected Ghost Stories
 
+### Robert Jungk
+
+* Children of the Ashes
+
 ### Mitsuyo Kakuta
 
 * Woman on the Other Shore
 * The Eighth Day
+
+### Simon Lewis
+
+The Human Planet How We Created the Anthropocene
 
 ### Seichō Matsumoto
 
@@ -492,17 +513,9 @@
 * Crossfire
 * Shadow Family
 
-### Haruki Murakami
-
-* Birthday Girl
-
 ### Ryū Murakami
 
 * Tokyo Decadence
-
-### Sayaka Murata
-
-* Convenience Store Woman
 
 ### Vladimir Nabokov
 
@@ -528,6 +541,10 @@
 ### Arimasa Osawa
 
 * Shinjuku Shark
+
+### Walter Sinnott-Armstrong
+
+Think Again: How to Reason and Argue
 
 ### Koji Suzuki
 
