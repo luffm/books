@@ -440,7 +440,7 @@
 
 ### Svetlana Alexievich
 
-* Chernobyl Prayer: A Chronicle of the Future (Penguin Modern Classics)
+* Chernobyl Prayer: A Chronicle of the Future
 
 ### J.G. Ballard
 
@@ -501,7 +501,7 @@
 
 ### Simon Lewis
 
-The Human Planet How We Created the Anthropocene
+* The Human Planet How We Created the Anthropocene
 
 ### Seichō Matsumoto
 
@@ -544,7 +544,7 @@ The Human Planet How We Created the Anthropocene
 
 ### Walter Sinnott-Armstrong
 
-Think Again: How to Reason and Argue
+* Think Again: How to Reason and Argue
 
 ### Koji Suzuki
 
