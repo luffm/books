@@ -461,6 +461,7 @@
 * Foreign Studies
 * The Sea and Poison
 * Song of Sadness
+* The Samurai
 
 ### E.M. Forster
 
@@ -499,9 +500,9 @@
 * Woman on the Other Shore
 * The Eighth Day
 
-### Simon Lewis
+### Joan Lindsay
 
-* The Human Planet How We Created the Anthropocene
+* Picnic at Hanging Rock
 
 ### Seichō Matsumoto
 
@@ -541,10 +542,6 @@
 ### Arimasa Osawa
 
 * Shinjuku Shark
-
-### Walter Sinnott-Armstrong
-
-* Think Again: How to Reason and Argue
 
 ### Koji Suzuki
 
