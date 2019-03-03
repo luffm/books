@@ -414,6 +414,8 @@
 * Amrita
 * Goodbye Tsugumi
 * The Lake
+* Asleep
+* N.P.
 
 ### Timothy Zahn
 
@@ -565,7 +567,4 @@
 
 * The Essence of Shinto
 
-### Banana Yoshimoto
 
-* Asleep
-* N.P.
