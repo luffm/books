@@ -283,6 +283,10 @@
 
 * Ringworld
 
+### Yōko Ogawa
+
+* Revenge
+
 ### George Orwell
 
 * Animal Farm
@@ -536,10 +540,6 @@
 ### Mahokaru Numata
 
 * Nan-Core
-
-### Yōko Ogawa
-
-* Revenge
 
 ### Arimasa Osawa
 
