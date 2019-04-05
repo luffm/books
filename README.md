@@ -385,6 +385,10 @@
 * The Secret Diary of Adrian Mole, Aged 13¾
 * The Growing Pains of Adrian Mole
 
+### Yūko Tsushima
+
+* Child of Fortune
+
 ### S. A. Wakefield
 
 * Bottersnikes and Gumbles
@@ -553,10 +557,6 @@
 
 * The Informer
 * Honeymoon to Nowhere
-
-### Yūko Tsushima
-
-* Child of Fortune
 
 ### Taichi Yamada
 
