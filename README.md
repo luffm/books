@@ -193,6 +193,10 @@
 
 * Blade Runner 2: The Edge of Human
 
+### Mitsuyo Kakuta
+
+* Woman on the Other Shore
+
 ### Hiromi Kawakami
 
 * Strange Weather in Tokyo (The Briefcase)
@@ -507,7 +511,6 @@
 
 ### Mitsuyo Kakuta
 
-* Woman on the Other Shore
 * The Eighth Day
 
 ### Joan Lindsay
