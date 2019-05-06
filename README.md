@@ -409,6 +409,7 @@
 ### Taichi Yamada
 
 * Strangers
+* In Search of a Distant Voice
 
 ### Hideo Yokoyama
 
@@ -563,7 +564,6 @@
 
 ### Taichi Yamada
 
-* In Search of a Distant Voice
 * I Haven't Dreamed of Flying Yet
 
 ### Motohisa Yamakage
