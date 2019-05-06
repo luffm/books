@@ -461,6 +461,7 @@
 
 * The Complete Stories of J.G.Ballard
 * The Day of Creation
+* Super-Cannes
 
 ### Kaori Ekuni
 
