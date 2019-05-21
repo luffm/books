@@ -410,6 +410,7 @@
 
 * Strangers
 * In Search of a Distant Voice
+* I Haven't Dreamed of Flying Yet
 
 ### Hideo Yokoyama
 
@@ -562,10 +563,6 @@
 
 * The Informer
 * Honeymoon to Nowhere
-
-### Taichi Yamada
-
-* I Haven't Dreamed of Flying Yet
 
 ### Motohisa Yamakage
 
