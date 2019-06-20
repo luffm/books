@@ -123,6 +123,7 @@
 * Volcano
 * Scandal
 * Wonderful Fool
+* The Sea and Poison
 
 ### Gillian Flynn
 
@@ -244,6 +245,10 @@
 
 * Love Minus Eighty
 * Defenders
+
+### Mark McShane
+
+* Seance on a Wet Afternoon
 
 ### Mian Mian
 
@@ -476,9 +481,9 @@
 * When I Whistle
 * Kiku's Prayer
 * Foreign Studies
-* The Sea and Poison
 * Song of Sadness
 * The Samurai
+* White Man/Yellow Man
 
 ### E.M. Forster
 
