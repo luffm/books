@@ -58,6 +58,7 @@
 * Concrete Island
 * Rushing to Paradise
 * Empire of the Sun
+* The Day of Creation
 
 ### Iain M. Banks
 
@@ -292,6 +293,10 @@
 
 * Ringworld
 
+### Asa Nonami
+
+* Now You're One of Us
+
 ### Yōko Ogawa
 
 * Revenge
@@ -466,7 +471,6 @@
 ### J.G. Ballard
 
 * The Complete Stories of J.G.Ballard
-* The Day of Creation
 * Super-Cannes
 
 ### Kaori Ekuni
@@ -525,6 +529,10 @@
 
 * Picnic at Hanging Rock
 
+### Saiichi Maruya
+
+* Singular Rebellion
+
 ### Seichō Matsumoto
 
 * Inspector Imanishi Investigates
@@ -543,10 +551,13 @@
 
 * Pale Fire
 
+### Kyōko Nakajima
+
+* The Little House
+
 ### Asa Nonami
 
 * The Hunter
-* Now You're One of Us
 
 ### Hisashi Nozawa
 
@@ -560,6 +571,10 @@
 
 * Shinjuku Shark
 
+### Zelda Rhiando
+
+* Fukushima Dreams
+
 ### Koji Suzuki
 
 * S: Es
@@ -572,4 +587,5 @@
 ### Motohisa Yamakage
 
 * The Essence of Shinto
+
 
