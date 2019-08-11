@@ -459,6 +459,7 @@
 * Read Real Japanese Fiction: Short Stories By Contemporary Writers
 * Short Stories in Japanese: New Penguin Parallel Text
 * Heaven's Wind
+* The Oxford Book of Japanese Short Stories by Theodore W. Goossen
 
 ### Keiko Aikawa
 
@@ -567,6 +568,10 @@
 
 * Nan-Core
 
+### Yoko Ogawa
+
+* Hotel Iris
+
 ### Arimasa Osawa
 
 * Shinjuku Shark
@@ -587,5 +592,9 @@
 ### Motohisa Yamakage
 
 * The Essence of Shinto
+
+### Banana Yoshimoto
+
+* Moshi Moshi
 
 
