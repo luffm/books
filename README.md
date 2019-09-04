@@ -211,6 +211,10 @@
 
 * Lost Japan
 
+### Daniel Keyes
+
+* Flowers for Algernon
+
 ### Stephen King
 
 * Misery
