@@ -285,6 +285,10 @@
 
 * Convenience Store Woman
 
+### Kyōko Nakajima
+
+* The Little House
+
 ### Grant Naylor
 
 * Red Dwarf: Infinity Welcomes Careful Drivers
@@ -526,6 +530,10 @@
 
 * The Eighth Day
 
+### Stephen King
+
+* The Dead Zone
+
 ### Joan Lindsay
 
 * Picnic at Hanging Rock
@@ -552,10 +560,6 @@
 
 * Pale Fire
 
-### Kyōko Nakajima
-
-* The Little House
-
 ### Asa Nonami
 
 * The Hunter
@@ -571,6 +575,7 @@
 ### Yoko Ogawa
 
 * Hotel Iris
+* The Diving Pool
 
 ### Arimasa Osawa
 
