@@ -219,6 +219,7 @@
 
 * Misery
 * The Eye of the Dragon
+* The Dead Zone
 
 ### Natsuo Kirino
 
@@ -350,6 +351,10 @@
 * Revenger
 * Diamond Dogs, Turquoise Days
 * Slow Bullets
+
+### Zelda Rhiando
+
+* Fukushima Dreams
 
 ### John Steinbeck
 
@@ -534,10 +539,6 @@
 
 * The Eighth Day
 
-### Stephen King
-
-* The Dead Zone
-
 ### Joan Lindsay
 
 * Picnic at Hanging Rock
@@ -584,10 +585,6 @@
 ### Arimasa Osawa
 
 * Shinjuku Shark
-
-### Zelda Rhiando
-
-* Fukushima Dreams
 
 ### Koji Suzuki
 
