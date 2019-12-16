@@ -186,6 +186,10 @@
 * The Lady and the Monk
 * The Global Soul
 
+### M.R. James
+
+* Collected Ghost Stories
+
 ### Tove Jansson
 
 * The Summer Book
@@ -526,10 +530,6 @@
 ### Kotaro Isaka
 
 * Remote Control
-
-### M.R. James
-
-* Collected Ghost Stories
 
 ### Robert Jungk
 
