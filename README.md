@@ -39,7 +39,7 @@
 * The Caves of Steel
 * The Naked Sun
 * The Robots of Dawn
-* Robots and Empire (?)
+* Robots and Empire
 * The End of Eternity
 * The Gods Themselves
 * Nemesis
@@ -125,10 +125,15 @@
 * Scandal
 * Wonderful Fool
 * The Sea and Poison
+* Silence
 
 ### Gillian Flynn
 
 * Gone Girl
+
+### Tei Fujiwara
+
+* Tei (Shooting Stars are Alive)
 
 ### Alex Garland
 
@@ -486,6 +491,10 @@
 
 * The Road to Enlightenment
 
+### Isaac Asimov
+
+* The Early Asimov Volume 2
+
 ### Svetlana Alexievich
 
 * Chernobyl Prayer: A Chronicle of the Future
@@ -502,7 +511,6 @@
 
 ### Shusaku Endo
 
-* Silence
 * Deep River
 * When I Whistle
 * Kiku's Prayer
@@ -514,10 +522,6 @@
 ### E.M. Forster
 
 * A Passage to India
-
-### Tei Fujiwara
-
-* Tei
 
 ### Paul Glynn
 
