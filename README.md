@@ -69,6 +69,10 @@
 
 * The Little White Bird
 
+### Stephen Baxter
+
+* Raft
+
 ### Elizabeth Boyer
 
 * The Elves and the Otterskin
