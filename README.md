@@ -26,6 +26,10 @@
 * Hothouse
 * Non-Stop
 
+### Svetlana Alexievich
+
+* Chernobyl Prayer: A Chronicle of the Future
+
 ### Isaac Asimov
 
 * Pebble in the Sky
@@ -498,10 +502,6 @@
 ### Isaac Asimov
 
 * The Early Asimov Volume 2
-
-### Svetlana Alexievich
-
-* Chernobyl Prayer: A Chronicle of the Future
 
 ### J.G. Ballard
 
