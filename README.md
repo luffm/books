@@ -323,9 +323,14 @@
 
 * Now You're One of Us
 
+### Hisashi Nozawa
+
+* Deep Red
+
 ### Yōko Ogawa
 
 * Revenge
+* The Diving Pool
 
 ### George Orwell
 
@@ -581,10 +586,6 @@
 
 * The Hunter
 
-### Hisashi Nozawa
-
-* Deep Red
-
 ### Mahokaru Numata
 
 * Nan-Core
@@ -592,7 +593,6 @@
 ### Yoko Ogawa
 
 * Hotel Iris
-* The Diving Pool
 
 ### Arimasa Osawa
 
