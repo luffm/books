@@ -594,6 +594,10 @@
 
 * Hotel Iris
 
+### Riku Onda
+
+* The Aosawa Murders
+
 ### Arimasa Osawa
 
 * Shinjuku Shark
