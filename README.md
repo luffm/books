@@ -331,6 +331,7 @@
 
 * Revenge
 * The Diving Pool
+* Hotel Iris
 
 ### George Orwell
 
@@ -421,6 +422,10 @@
 
 * Perfect Blue: Complete Metamorphosis
 
+### Yōko Tawada
+
+* Time Differences (Short Story - Strangers Press)
+
 ### Louis Theroux
 
 * Gotta Get Theroux This
@@ -492,6 +497,21 @@
 
 
 ## Unread
+
+### Nao-Cola Yamazaki
+* Friendship for Grown-Ups (Short Story - Strangers Press)
+### Kyoko Yoshida
+* Spring Sleepers (Short Story - Strangers Press)
+### Natsuki Ikezawa
+* Mariko/Mariquita (Short Story - Strangers Press)
+### Aoko Matsuda
+* The Girl Who is getting Married (Short Story - Strangers Press)
+### Masatsugu Ono
+* At the Edge of the Wood (Short Story - Strangers Press)
+### Misumi Kubo
+* Mikumari (Short Story - Strangers Press)
+### Keiichirō Hirano
+* The Transparent Labyrinth (Short Story - Strangers Press)
 
 ### Anthologies
 
@@ -589,10 +609,6 @@
 ### Mahokaru Numata
 
 * Nan-Core
-
-### Yoko Ogawa
-
-* Hotel Iris
 
 ### Riku Onda
 
