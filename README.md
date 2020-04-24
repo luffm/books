@@ -139,6 +139,10 @@
 
 * Gone Girl
 
+### E.M. Forster
+
+* A Passage to India
+
 ### Tei Fujiwara
 
 * Tei (Shooting Stars are Alive)
@@ -185,6 +189,10 @@
 
 * The Guest Cat
 
+### Keiichirō Hirano
+
+* The Transparent Labyrinth (Short Story - Strangers Press)
+
 ### Tetsuya Honda
 
 * The Silent Dead
@@ -193,6 +201,10 @@
 ### Geoffrey Household
 
 * Rogue Male
+
+### Natsuki Ikezawa
+
+* Mariko/Mariquita (Short Story - Strangers Press)
 
 ### Pico Iyer
 
@@ -244,6 +256,10 @@
 * Grotesque
 * Real World
 
+### Misumi Kubo
+
+* Mikumari (Short Story - Strangers Press)
+
 ### Stanislaw Lem
 
 * Solaris
@@ -259,6 +275,10 @@
 ### John Masefield
 
 * The Box of Delights
+
+### Aoko Matsuda
+
+* The Girl Who is getting Married (Short Story - Strangers Press)
 
 ### Ian McEwan
 
@@ -332,6 +352,10 @@
 * Revenge
 * The Diving Pool
 * Hotel Iris
+
+### Masatsugu Ono
+
+* At the Edge of the Wood (Short Story - Strangers Press)
 
 ### George Orwell
 
@@ -466,10 +490,18 @@
 * In Search of a Distant Voice
 * I Haven't Dreamed of Flying Yet
 
+### Nao-Cola Yamazaki
+
+* Friendship for Grown-Ups (Short Story - Strangers Press)
+
 ### Hideo Yokoyama
 
 * Six Four
 * Seventeen
+
+### Kyoko Yoshida
+
+* Spring Sleepers (Short Story - Strangers Press)
 
 ### Shūichi Yoshida
 
@@ -497,21 +529,6 @@
 
 
 ## Unread
-
-### Nao-Cola Yamazaki
-* Friendship for Grown-Ups (Short Story - Strangers Press)
-### Kyoko Yoshida
-* Spring Sleepers (Short Story - Strangers Press)
-### Natsuki Ikezawa
-* Mariko/Mariquita (Short Story - Strangers Press)
-### Aoko Matsuda
-* The Girl Who is getting Married (Short Story - Strangers Press)
-### Masatsugu Ono
-* At the Edge of the Wood (Short Story - Strangers Press)
-### Misumi Kubo
-* Mikumari (Short Story - Strangers Press)
-### Keiichirō Hirano
-* The Transparent Labyrinth (Short Story - Strangers Press)
 
 ### Anthologies
 
@@ -547,10 +564,6 @@
 * Song of Sadness
 * The Samurai
 * White Man/Yellow Man
-
-### E.M. Forster
-
-* A Passage to India
 
 ### Paul Glynn
 
