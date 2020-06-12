@@ -264,7 +264,7 @@
 
 * Solaris
 
-#### Gabriel García Márquez
+### Gabriel García Márquez
 
 * The Story of a Shipwrecked Sailor
 
