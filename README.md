@@ -4,7 +4,7 @@
 
 * The Book of Tokyo - A City in Short Fiction
 
-### Kōbō Abe
+### Kōbō Abe 安部公房
 
 * The Ark Sakura
 
@@ -126,7 +126,7 @@
 * The Ruby Knight (The Elenium)
 * The Sapphire Rose (The Elenium)
 
-### Shusaku Endo
+### Shusaku Endo 遠藤周作
 
 * The Girl I Left Behind
 * Volcano
@@ -143,7 +143,7 @@
 
 * A Passage to India
 
-### Tei Fujiwara
+### Tei Fujiwara 藤原てい
 
 * Tei (Shooting Stars are Alive)
 
@@ -161,6 +161,10 @@
 * A Gun For Sale
 * Brighton Rock
 
+### Kaori Ekuni 江國 香織
+
+* God's Boat
+
 ### Mark Haddon
 
 * The Curious Incident of the Dog in the Night-Time
@@ -177,7 +181,7 @@
 
 * The Magic Cottage
 
-### Keigo Higashino
+### Keigo Higashino 東野圭吾
 
 * The Devotion of Suspect X
 * Salvation of a Saint
@@ -185,15 +189,15 @@
 * Journey Under the Midnight Sun
 * Naoko
 
-### Takashi Hiraide
+### Takashi Hiraide 平出隆
 
 * The Guest Cat
 
-### Keiichirō Hirano
+### Keiichirō Hirano 平野啓一郎
 
 * The Transparent Labyrinth (Short Story - Strangers Press)
 
-### Tetsuya Honda
+### Tetsuya Honda 誉田哲也
 
 * The Silent Dead
 * Soul Cage
@@ -202,7 +206,7 @@
 
 * Rogue Male
 
-### Natsuki Ikezawa
+### Natsuki Ikezawa 池澤夏樹
 
 * Mariko/Mariquita (Short Story - Strangers Press)
 
@@ -224,11 +228,11 @@
 
 * Blade Runner 2: The Edge of Human
 
-### Mitsuyo Kakuta
+### Mitsuyo Kakuta 角田光代
 
 * Woman on the Other Shore
 
-### Hiromi Kawakami
+### Hiromi Kawakami 川上弘美
 
 * Strange Weather in Tokyo (The Briefcase)
 
@@ -250,13 +254,13 @@
 * The Eye of the Dragon
 * The Dead Zone
 
-### Natsuo Kirino
+### Natsuo Kirino 桐野夏生
 
 * Out
 * Grotesque
 * Real World
 
-### Misumi Kubo
+### Misumi Kubo 窪美澄
 
 * Mikumari (Short Story - Strangers Press)
 
@@ -276,7 +280,7 @@
 
 * The Box of Delights
 
-### Aoko Matsuda
+### Aoko Matsuda 松田青子
 
 * The Girl Who is getting Married (Short Story - Strangers Press)
 
@@ -297,17 +301,17 @@
 
 * Candy
 
-### Kanae Minato
+### Kanae Minato 湊かなえ
 
 * Penance
 
-### Miyuki Miyabe
+### Miyuki Miyabe 宮部みゆき
 
 * The Devil's Whisper
 * The Sleeping Dragon
 * All She Was Worth
 
-### Haruki Murakami
+### Haruki Murakami 村上春樹
 
 * Norwegian Wood
 * A Wild Sheep Chase
@@ -317,17 +321,17 @@
 * Underground
 * Birthday Girl
 
-### Ryū Murakami
+### Ryū Murakami 村上龍
 
 * Audition
 * Piercing
 * Coin Locker Babies
 
-### Sayaka Murata
+### Sayaka Murata 村田沙耶香
 
 * Convenience Store Woman
 
-### Kyōko Nakajima
+### Kyōko Nakajima 中島京子
 
 * The Little House
 
@@ -339,21 +343,21 @@
 
 * Ringworld
 
-### Asa Nonami
+### Asa Nonami 乃南アサ
 
 * Now You're One of Us
 
-### Hisashi Nozawa
+### Hisashi Nozawa 野沢尚
 
 * Deep Red
 
-### Yōko Ogawa
+### Yōko Ogawa 小川洋子
 
 * Revenge
 * The Diving Pool
 * Hotel Iris
 
-### Masatsugu Ono
+### Masatsugu Ono 小野正嗣
 
 * At the Edge of the Wood (Short Story - Strangers Press)
 
@@ -421,7 +425,7 @@
 * The Pigeon
 * The Story of Mr Sommer
 
-### Kōji Suzuki
+### Kōji Suzuki 鈴木光司
 
 * Ring
 * Spiral
@@ -438,15 +442,15 @@
 
 * Black Box Thinking
 
-### Akimitsu Takagi
+### Akimitsu Takagi 高木彬光
 
 * The Tattoo Murder Case
 
-### Yoshikazu Takeuchi
+### Yoshikazu Takeuchi 竹内義和
 
 * Perfect Blue: Complete Metamorphosis
 
-### Yōko Tawada
+### Yōko Tawada 多和田葉子
 
 * Time Differences (Short Story - Strangers Press)
 
@@ -467,7 +471,7 @@
 * The Secret Diary of Adrian Mole, Aged 13¾
 * The Growing Pains of Adrian Mole
 
-### Yūko Tsushima
+### Yūko Tsushima 津島佑子
 
 * Child of Fortune
 
@@ -484,31 +488,31 @@
 
 * The Day of the Triffids 
 
-### Taichi Yamada
+### Taichi Yamada 山田太一
 
 * Strangers
 * In Search of a Distant Voice
 * I Haven't Dreamed of Flying Yet
 
-### Nao-Cola Yamazaki
+### Nao-Cola Yamazaki 山崎ナオコーラ
 
 * Friendship for Grown-Ups (Short Story - Strangers Press)
 
-### Hideo Yokoyama
+### Hideo Yokoyama 横山秀夫
 
 * Six Four
 * Seventeen
 
-### Kyoko Yoshida
+### Kyoko Yoshida 恭子吉田
 
 * Spring Sleepers (Short Story - Strangers Press)
 
-### Shūichi Yoshida
+### Shūichi Yoshida 吉田修一
 
 * Villain
 * Parade
 
-### Banana Yoshimoto
+### Banana Yoshimoto 吉本ばなな
 
 * Kitchen
 * Amrita
@@ -537,7 +541,7 @@
 * Heaven's Wind
 * The Oxford Book of Japanese Short Stories by Theodore W. Goossen
 
-### Keiko Aikawa
+### Keiko Aikawa 相川圭子
 
 * The Road to Enlightenment
 
@@ -550,12 +554,11 @@
 * The Complete Stories of J.G.Ballard
 * Super-Cannes
 
-### Kaori Ekuni
+### Kaori Ekuni 江國 香織
 
 * Twinkle Twinkle
-* God's Boat
 
-### Shusaku Endo
+### Shusaku Endo 遠藤周作
 
 * Deep River
 * When I Whistle
@@ -573,11 +576,11 @@
 
 * Hiroshima
 
-### Masuji Ibuse
+### Masuji Ibuse 井伏鱒二
 
 * Black Rain
 
-### Kotaro Isaka
+### Kotaro Isaka 伊坂幸太郎
 
 * Remote Control
 
@@ -585,7 +588,7 @@
 
 * Children of the Ashes
 
-### Mitsuyo Kakuta
+### Mitsuyo Kakuta 角田光代
 
 * The Eighth Day
 
@@ -593,21 +596,21 @@
 
 * Picnic at Hanging Rock
 
-### Saiichi Maruya
+### Saiichi Maruya 丸谷才一
 
 * Singular Rebellion
 
-### Seichō Matsumoto
+### Seichō Matsumoto 松本清張
 
 * Inspector Imanishi Investigates
 * A Quiet Place
 
-### Miyuki Miyabe
+### Miyuki Miyabe 宮部みゆき
 
 * Crossfire
 * Shadow Family
 
-### Ryū Murakami
+### Ryū Murakami 村上龍
 
 * Tokyo Decadence
 
@@ -615,36 +618,36 @@
 
 * Pale Fire
 
-### Asa Nonami
+### Asa Nonami 乃南アサ
 
 * The Hunter
 
-### Mahokaru Numata
+### Mahokaru Numata 沼田まほかる
 
 * Nan-Core
 
-### Riku Onda
+### Riku Onda 恩田陸
 
 * The Aosawa Murders
 
-### Arimasa Osawa
+### Arimasa Osawa 大沢在昌
 
 * Shinjuku Shark
 
-### Koji Suzuki
+### Koji Suzuki 鈴木光司
 
 * S: Es
 
-### Akimitsu Takagi
+### Akimitsu Takagi 高木彬光
 
 * The Informer
 * Honeymoon to Nowhere
 
-### Motohisa Yamakage
+### Motohisa Yamakage 基央山蔭
 
 * The Essence of Shinto
 
-### Banana Yoshimoto
+### Banana Yoshimoto 吉本ばなな
 
 * Moshi Moshi
 
