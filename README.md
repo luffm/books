@@ -3,6 +3,7 @@
 ### Anthology
 
 * The Book of Tokyo - A City in Short Fiction
+* Read Real Japanese Fiction: Short Stories By Contemporary Writers
 
 ### Kōbō Abe 安部公房
 
@@ -63,6 +64,7 @@
 * Rushing to Paradise
 * Empire of the Sun
 * The Day of Creation
+* Super-Cannes
 
 ### Iain M. Banks
 
@@ -536,7 +538,6 @@
 
 ### Anthologies
 
-* Read Real Japanese Fiction: Short Stories By Contemporary Writers
 * Short Stories in Japanese: New Penguin Parallel Text
 * Heaven's Wind
 * The Oxford Book of Japanese Short Stories by Theodore W. Goossen
@@ -552,7 +553,7 @@
 ### J.G. Ballard
 
 * The Complete Stories of J.G.Ballard
-* Super-Cannes
+* Millennium People
 
 ### Kaori Ekuni 江國 香織
 
