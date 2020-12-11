@@ -549,11 +549,21 @@
 ### Isaac Asimov
 
 * The Early Asimov Volume 2
+* Prelude to Foundation
+* I, Robot
 
 ### J.G. Ballard
 
 * The Complete Stories of J.G.Ballard
 * Millennium People
+
+### Michael Crichton
+
+* Jurassic Park
+
+### Umberto Eco
+
+# The Name of the Rose
 
 ### Kaori Ekuni 江國 香織
 
@@ -597,6 +607,14 @@
 
 * Picnic at Hanging Rock
 
+### H. P. Lovecraft
+
+* Tales of Horror (Collection of stories)
+
+### Sir Thomas Malory
+
+* Le Morte Darthur
+
 ### Saiichi Maruya 丸谷才一
 
 * Singular Rebellion
@@ -606,6 +624,10 @@
 * Inspector Imanishi Investigates
 * A Quiet Place
 
+### Yukio Mishima
+
+* The Temple of the Golden Pavilion
+
 ### Miyuki Miyabe 宮部みゆき
 
 * Crossfire
@@ -614,6 +636,10 @@
 ### Ryū Murakami 村上龍
 
 * Tokyo Decadence
+
+### Sayaka Murata 村田沙耶香
+
+* Earthlings
 
 ### Vladimir Nabokov
 
