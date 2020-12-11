@@ -563,7 +563,7 @@
 
 ### Umberto Eco
 
-# The Name of the Rose
+* The Name of the Rose
 
 ### Kaori Ekuni 江國 香織
 
