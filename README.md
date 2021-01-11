@@ -97,6 +97,10 @@
 * The Grey King
 * Silver on the Tree
 
+### Daniel Defoe
+
+* A Journal of the Plague Year
+
 ### Philip K. Dick
 
 * Do Androids Dream of Electric Sheep
@@ -541,6 +545,7 @@
 * Short Stories in Japanese: New Penguin Parallel Text
 * Heaven's Wind
 * The Oxford Book of Japanese Short Stories by Theodore W. Goossen
+* Travels with a Writing Brush - Classical Japanese Travel Writing
 
 ### Keiko Aikawa 相川圭子
 
@@ -556,6 +561,14 @@
 
 * The Complete Stories of J.G.Ballard
 * Millennium People
+
+### Arnold Bennett
+
+* Riceyman Steps
+
+### Algernon Blackwood
+
+* Ancient Sorceries and Other Weird Stories
 
 ### Michael Crichton
 
@@ -583,6 +596,10 @@
 
 * A Song For Nagasaki
 
+### Lafcadio Hearn
+
+* Japanese Ghost Stories
+
 ### John Hersey
 
 * Hiroshima
@@ -602,6 +619,10 @@
 ### Mitsuyo Kakuta 角田光代
 
 * The Eighth Day
+
+### Matthew Lewis
+
+* The Monk
 
 ### Joan Lindsay
 
@@ -661,6 +682,14 @@
 
 * Shinjuku Shark
 
+### Ray Russell
+
+* The Case Against Satan
+
+### Clark Ashton Smith
+
+* The Dark Eidolon and Other Fantasies
+
 ### Koji Suzuki 鈴木光司
 
 * S: Es
@@ -669,6 +698,10 @@
 
 * The Informer
 * Honeymoon to Nowhere
+
+### Horace Walpole
+
+* The Castle of Otranto
 
 ### Motohisa Yamakage 基央山蔭
 
