@@ -53,6 +53,7 @@
 * Robot Dreams
 * The Early Asimov Volume 1
 * The Early Asimov Volume 3
+* I, Robot
 
 ### J.G. Ballard
 
@@ -96,6 +97,10 @@
 * Greenwitch
 * The Grey King
 * Silver on the Tree
+
+### Michael Crichton
+
+* Jurassic Park
 
 ### Daniel Defoe
 
@@ -451,6 +456,8 @@
 ### Akimitsu Takagi 高木彬光
 
 * The Tattoo Murder Case
+* The Informer
+* Honeymoon to Nowhere
 
 ### Yoshikazu Takeuchi 竹内義和
 
@@ -555,7 +562,6 @@
 
 * The Early Asimov Volume 2
 * Prelude to Foundation
-* I, Robot
 
 ### J.G. Ballard
 
@@ -569,10 +575,6 @@
 ### Algernon Blackwood
 
 * Ancient Sorceries and Other Weird Stories
-
-### Michael Crichton
-
-* Jurassic Park
 
 ### Umberto Eco
 
@@ -693,11 +695,6 @@
 ### Koji Suzuki 鈴木光司
 
 * S: Es
-
-### Akimitsu Takagi 高木彬光
-
-* The Informer
-* Honeymoon to Nowhere
 
 ### Horace Walpole
 
