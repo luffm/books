@@ -493,6 +493,10 @@
 * Bottersnikes and Gumbles
 * Gumbles on Guard
 
+### Horace Walpole
+
+* The Castle of Otranto
+
 ### H.G. Wells
 
 * The Time Machine
@@ -695,10 +699,6 @@
 ### Koji Suzuki 鈴木光司
 
 * S: Es
-
-### Horace Walpole
-
-* The Castle of Otranto
 
 ### Motohisa Yamakage 基央山蔭
 
