@@ -295,6 +295,10 @@
 
 * The Girl Who is getting Married (Short Story - Strangers Press)
 
+### Seichō Matsumoto 松本清張
+
+* A Quiet Place
+
 ### Ian McEwan
 
 * Enduring Love
@@ -341,6 +345,7 @@
 ### Sayaka Murata 村田沙耶香
 
 * Convenience Store Woman
+* Earthlings
 
 ### Kyōko Nakajima 中島京子
 
@@ -626,6 +631,14 @@
 
 * The Eighth Day
 
+### Rei Kimura
+
+* Aum Shinrikyo-Japan's Unholy Sect
+
+### Sakyo Komatsu
+
+* Japan Sinks
+
 ### Matthew Lewis
 
 * The Monk
@@ -633,6 +646,10 @@
 ### Joan Lindsay
 
 * Picnic at Hanging Rock
+
+### Frances Little
+
+* Stories of Japan
 
 ### H. P. Lovecraft
 
@@ -649,7 +666,6 @@
 ### Seichō Matsumoto 松本清張
 
 * Inspector Imanishi Investigates
-* A Quiet Place
 
 ### Yukio Mishima
 
@@ -663,10 +679,6 @@
 ### Ryū Murakami 村上龍
 
 * Tokyo Decadence
-
-### Sayaka Murata 村田沙耶香
-
-* Earthlings
 
 ### Vladimir Nabokov
 
