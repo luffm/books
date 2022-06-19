@@ -259,6 +259,10 @@
 
 * Flowers for Algernon
 
+### Rei Kimura
+
+* Aum Shinrikyo-Japan's Unholy Sect
+
 ### Stephen King
 
 * Misery
@@ -630,10 +634,6 @@
 ### Mitsuyo Kakuta 角田光代
 
 * The Eighth Day
-
-### Rei Kimura
-
-* Aum Shinrikyo-Japan's Unholy Sect
 
 ### Sakyo Komatsu
 
