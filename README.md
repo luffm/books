@@ -80,6 +80,10 @@
 
 * Raft
 
+### Arnold Bennett
+
+* Riceyman Steps
+
 ### Elizabeth Boyer
 
 * The Elves and the Otterskin
@@ -580,10 +584,6 @@
 
 * The Complete Stories of J.G.Ballard
 * Millennium People
-
-### Arnold Bennett
-
-* Riceyman Steps
 
 ### Algernon Blackwood
 
