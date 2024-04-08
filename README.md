@@ -381,6 +381,10 @@
 * The Diving Pool
 * Hotel Iris
 
+### Riku Onda 恩田陸
+
+* The Aosawa Murders
+
 ### Masatsugu Ono 小野正嗣
 
 * At the Edge of the Wood (Short Story - Strangers Press)
@@ -691,10 +695,6 @@
 ### Mahokaru Numata 沼田まほかる
 
 * Nan-Core
-
-### Riku Onda 恩田陸
-
-* The Aosawa Murders
 
 ### Arimasa Osawa 大沢在昌
 
