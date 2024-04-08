@@ -435,6 +435,10 @@
 
 * Fukushima Dreams
 
+### Ray Russell
+
+* The Case Against Satan
+
 ### John Steinbeck
 
 * Of Mice and Men
@@ -699,10 +703,6 @@
 ### Arimasa Osawa 大沢在昌
 
 * Shinjuku Shark
-
-### Ray Russell
-
-* The Case Against Satan
 
 ### Clark Ashton Smith
 
