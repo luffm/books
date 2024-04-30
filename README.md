@@ -188,6 +188,10 @@
 
 * King Solomon's Mines
 
+### Heinrich Harrer
+
+* Seven Years in Tibet
+
 ### Paula Hawkins
 
 * The Girl on the Train
