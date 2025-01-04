@@ -179,6 +179,7 @@
 ### Kaori Ekuni 江國 香織
 
 * God's Boat
+* Twinkle Twinkle
 
 ### Mark Haddon
 
@@ -283,6 +284,10 @@
 * Grotesque
 * Real World
 
+### Sakyo Komatsu
+
+* Japan Sinks
+
 ### Misumi Kubo 窪美澄
 
 * Mikumari (Short Story - Strangers Press)
@@ -290,6 +295,10 @@
 ### Stanislaw Lem
 
 * Solaris
+
+### Matthew Lewis
+
+* The Monk
 
 ### Gabriel García Márquez
 
@@ -605,10 +614,6 @@
 
 * The Name of the Rose
 
-### Kaori Ekuni 江國 香織
-
-* Twinkle Twinkle
-
 ### Shusaku Endo 遠藤周作
 
 * Deep River
@@ -646,14 +651,6 @@
 ### Mitsuyo Kakuta 角田光代
 
 * The Eighth Day
-
-### Sakyo Komatsu
-
-* Japan Sinks
-
-### Matthew Lewis
-
-* The Monk
 
 ### Joan Lindsay
 
