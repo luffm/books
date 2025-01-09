@@ -149,6 +149,7 @@
 * Wonderful Fool
 * The Sea and Poison
 * Silence
+* White Man/Yellow Man
 
 ### Gillian Flynn
 
@@ -622,7 +623,6 @@
 * Foreign Studies
 * Song of Sadness
 * The Samurai
-* White Man/Yellow Man
 
 ### Paul Glynn
 
