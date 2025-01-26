@@ -582,6 +582,13 @@
 
 
 
+## DNF
+
+### Arimasa Osawa 大沢在昌
+
+* Shinjuku Shark
+
+
 
 
 ## Unread
@@ -700,10 +707,6 @@
 ### Mahokaru Numata 沼田まほかる
 
 * Nan-Core
-
-### Arimasa Osawa 大沢在昌
-
-* Shinjuku Shark
 
 ### Clark Ashton Smith
 
