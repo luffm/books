@@ -584,6 +584,10 @@
 
 ## DNF
 
+### Miyuki Miyabe 宮部みゆき
+
+* Apparitions - Ghosts of Old Edo
+
 ### Arimasa Osawa 大沢在昌
 
 * Shinjuku Shark
